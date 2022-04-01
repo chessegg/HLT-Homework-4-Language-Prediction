@@ -2,7 +2,8 @@ This is Homework 4 from CS 4395 Human Language Technologies (Natural Language Pr
 
 The instructions for the assignment can be found in the homework_4_ngram_INSTRUCTIONS.pdf file.
 
-The basic gist of the project is that we use NLP (specifically, NLTK) to create unigram and bigram dictionaries
+The basic gist of the project is that it is able to predict whether a provided sentence is more likely
+to be English, French, or Italian. It uses NLP (specifically, NLTK) to create unigram and bigram dictionaries
 for English, French, and Italian using provided training data. We then use these dictionaries to calculate
 probabilities that each sentence is a certain language in the test data.
 
